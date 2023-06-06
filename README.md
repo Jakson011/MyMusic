@@ -9,8 +9,7 @@ Status: Developing ⚠️
 
 ## 🖥️ About the Project
 
-This application derives from a legacy project, where we seek to improve it by applying microservices techniques allowing the new application to perform an independent scaling of APIs, grouped according to the customer's business domains.
-The project pursuit to show the result of teamwork, developed by CI&T juniors programmers as a way of showing our knowledge. Enjoy! 🚀
+This application derives from a legacy project, where I seek to improve it by applying microservices techniques allowing the new application to perform independent scaling of APIs, grouped according to the client's business domains. as a way to show my knowledge.! 🚀
 
 <h3 align=center>
 <img src="https://media3.giphy.com/media/l4Ep71LWjYR1eCPXq/giphy.gif?cid=ecf05e47l0tt74ccocho3m8eesb7axm13yxedh2zhn22vlac&rid=giphy.gif&ct=g">
@@ -63,5 +62,5 @@ To design this project we chose the MVC architecture, using DTO on the layers. T
 
 <h1 align="center">
 T H A N K S !
- <img alt="Exceptions" title="#Exceptions" src="ExceptionsMyMusic/.github/midia/EXCEPTIONS TEAM.gif"/>
+ <img alt= src="ExceptionsMyMusic/.github/midia/EXCEPTIONS TEAM.gif"/>
 </h1>
