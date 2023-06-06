@@ -54,12 +54,6 @@ To design this project we chose the MVC architecture, using DTO on the layers. T
 - Intellij IDEA;
 - Git & GitHub;
 
-## 🤖 Developers
-
-<a href="https://github.com/arnald-queiroga/ExceptionsMyMusic/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=arnald-queiroga/ExceptionsMyMusic" />
-</a>
-
 <h1 align="center">
 T H A N K S !
  <img alt= src="ExceptionsMyMusic/.github/midia/EXCEPTIONS TEAM.gif"/>
