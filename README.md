@@ -56,5 +56,4 @@ To design this project we chose the MVC architecture, using DTO on the layers. T
 
 <h1 align="center">
 T H A N K S !
- <img alt= src="ExceptionsMyMusic/.github/midia/EXCEPTIONS TEAM.gif"/>
 </h1>
