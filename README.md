@@ -55,5 +55,5 @@ To design this project we chose the MVC architecture, using DTO on the layers. T
 - Git & GitHub;
 
 <h1 align="center">
-T H A N K S !
+ T H A N K S !
 </h1>
