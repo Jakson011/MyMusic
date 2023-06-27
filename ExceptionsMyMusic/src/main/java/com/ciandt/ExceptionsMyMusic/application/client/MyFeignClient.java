@@ -1,5 +1,4 @@
 package com.ciandt.ExceptionsMyMusic.application.client;
-
 import com.ciandt.ExceptionsMyMusic.domain.dto.TokenDataDTO;
 import org.springframework.cloud.openfeign.FeignClient;
 import org.springframework.web.bind.annotation.PostMapping;
