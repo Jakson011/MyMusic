@@ -1,7 +1,8 @@
 package com.ciandt.ExceptionsMyMusic.application.client;
+
 import com.ciandt.ExceptionsMyMusic.domain.dto.TokenDataDTO;
-import org.springframework.cloud.openfeign.FeignClient;
 import org.springframework.web.bind.annotation.PostMapping;
+import org.springframework.cloud.openfeign.FeignClient;
 
 @FeignClient(name = "tokenFindClient", url = "http://localhost:8080")
 public interface MyFeignClient {
