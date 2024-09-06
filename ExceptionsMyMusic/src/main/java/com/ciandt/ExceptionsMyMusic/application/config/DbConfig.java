@@ -51,7 +51,6 @@ public class DbConfig {
         }
         return hibernateProperties;
     }
-
 }
 
 @Configuration
